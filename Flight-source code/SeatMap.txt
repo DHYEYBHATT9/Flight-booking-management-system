@@ -1,0 +1,60 @@
+SEAT NUMBER: 1
+LASTNAME: asdfg
+FIRSTNAME: asdfg
+BOOKING STATUS Y
+---------------------------------------------------
+SEAT NUMBER: 2
+LASTNAME: sdfg
+FIRSTNAME: asdfg
+BOOKING STATUS Y
+---------------------------------------------------
+SEAT NUMBER: 3
+LASTNAME: asdfg
+FIRSTNAME: asdfgb
+BOOKING STATUS Y
+---------------------------------------------------
+SEAT NUMBER: 4
+LASTNAME: 
+FIRSTNAME: 
+BOOKING STATUS N
+---------------------------------------------------
+SEAT NUMBER: 5
+LASTNAME: 
+FIRSTNAME: 
+BOOKING STATUS N
+---------------------------------------------------
+SEAT NUMBER: 6
+LASTNAME: 
+FIRSTNAME: 
+BOOKING STATUS N
+---------------------------------------------------
+SEAT NUMBER: 7
+LASTNAME: 
+FIRSTNAME: 
+BOOKING STATUS N
+---------------------------------------------------
+SEAT NUMBER: 8
+LASTNAME: 
+FIRSTNAME: 
+BOOKING STATUS N
+---------------------------------------------------
+SEAT NUMBER: 9
+LASTNAME: 
+FIRSTNAME: 
+BOOKING STATUS N
+---------------------------------------------------
+SEAT NUMBER: 10
+LASTNAME: 
+FIRSTNAME: 
+BOOKING STATUS N
+---------------------------------------------------
+SEAT NUMBER: 11
+LASTNAME: 
+FIRSTNAME: 
+BOOKING STATUS N
+---------------------------------------------------
+SEAT NUMBER: 12
+LASTNAME: 
+FIRSTNAME: 
+BOOKING STATUS N
+---------------------------------------------------
